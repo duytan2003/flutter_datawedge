@@ -27,7 +27,7 @@ dev_dependencies:
   freezed: ^2.3.2
   json_serializable: ^6.6.1
   lints: ^2.0.1
-  pigeon: ^10.1.0
+  pigeon: ">=10.1.0 <27.0.0"
   very_good_analysis: ^5.0.0+1
 
 flutter:
